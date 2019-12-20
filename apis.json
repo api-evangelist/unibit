@@ -1,0 +1,42 @@
+{
+    "name": "UniBit",
+    "description": "UniBit is an Interactive News publishing company powered by Natural Language Processing and Machine Intelligence. UniBit deploys data-based newsfeeds and handles search queries to fulfill information demand.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28376-www-unibit-ai.jpg",
+    "tags": [
+        "api not found",
+        "have api",
+        "machine learning",
+        "news"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/unibit\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "UniBit",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28376-www-unibit-ai.jpg",
+            "humanURL": "https:\/\/www.unibit.ai",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/unibit-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Email",
+            "url": "Vincent@unibit.ai"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.unibit.ai"
+        }
+    ]
+}
